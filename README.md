@@ -9,3 +9,6 @@ Explore the complete on-chain metrics report analyzing six leading blockchains f
 
 # Blockchain On-Chain Metrics Weekly Report: February 16–22, 2026: A Deep Dive Into Six Major Chains
 https://cryip.co/blockchain-on-chain-metrics-weekly-report-feb16-feb22-2026/
+
+# Blockchain On-Chain Metrics Weekly Report: February 23– March 1, 2026: A Deep Dive Into Six Major Chains
+https://cryip.co/blockchain-on-chain-metrics-weekly-report-feb23-mar1-2026/
