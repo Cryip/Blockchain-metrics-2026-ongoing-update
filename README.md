@@ -21,3 +21,6 @@ https://cryip.co/blockchain-on-chain-metrics-weekly-report-march02-08-2026/
 
 # Blockchain On-Chain Metrics Weekly Report: March09 – 15, 2026: A Deep Dive Into Six Major Chains
 https://cryip.co/blockchain-on-chain-metrics-weekly-report-march09-15-2026/
+
+# Blockchain On-Chain Metrics: Ethereum, Bitcoin, Solana, BSC, Tron & Base Weekly Report (Mar 16–22, 2026)
+https://cryip.co/blockchain-on-chain-metrics-weekly-report-march16-22-2026/
