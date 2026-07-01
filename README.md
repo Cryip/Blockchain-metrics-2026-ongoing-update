@@ -69,3 +69,6 @@ https://cryip.co/blockchain-on-chain-metrics-ethereum-bitcoin-solana-bsc-tron-ba
 
 # Ethereum TVL Falls While Solana and Bitcoin Show Mixed On-Chain Trends
 https://cryip.co/ethereum-tvl-falls-while-solana-and-bitcoin-show-mixed-on-chain-trends/
+
+# Blockchain On-Chain Metrics: Ethereum, Bitcoin, Solana, BSC, Tron & Base Monthly Analysis (June 2026)
+https://cryip.co/blockchain-on-chain-metrics-ethereum-bitcoin-solana-bsc-tron-base-monthly-analysis-june-2026/
